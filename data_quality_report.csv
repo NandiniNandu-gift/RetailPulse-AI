@@ -1,0 +1,7 @@
+dataset,total_rows,total_columns,missing_values,duplicate_rows
+Sales,10000,10,0,0
+Products,20,7,0,0
+Stores,5,3,0,0
+Suppliers,5,3,0,0
+Purchase Orders,500,8,0,0
+Inventory,100,5,0,0

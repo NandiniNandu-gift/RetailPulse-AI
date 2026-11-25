@@ -1,0 +1,30 @@
+RETAILPULSE AI - DEMAND FORECASTING REPORT
+=======================================================
+
+Validation period: 2025-10-02 to 2025-10-31
+Validation training end: 2025-10-01
+Test period: 2025-12-02 to 2025-12-31
+Final training end: 2025-12-01
+
+Selected non-zero model: TSB_alpha_0.05_beta_0.20
+
+Selected model - December metrics:
+MAE: 1.2487
+RMSE: 2.1562
+WAPE: 193.10%
+Forecast Bias: 20.28%
+Actual total: 1940.00
+Forecast total: 2333.38
+
+Best overall December model:
+All_Zero_Baseline
+WAPE: 100.00%
+
+Note:
+The selected non-zero model was chosen using October validation.
+December is kept as a separate final test period.
+The all-zero baseline is included only as a benchmark.
+No model accuracy is guaranteed.
+
+Output folder:
+C:\Users\nn710\OneDrive\Nandini\Projects\RetailPulse AI\Machine_Learning\Demand_Forecasting\results

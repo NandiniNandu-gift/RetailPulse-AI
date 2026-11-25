@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_cost,unit_price,reorder_point,lead_time_days
+P001,Product_1,Personal Care,77,138,55,9
+P002,Product_2,Household,41,109,69,6
+P003,Product_3,Snacks,108,63,23,3
+P004,Product_4,Household,68,291,21,6
+P005,Product_5,Household,78,299,25,9
+P006,Product_6,Beverages,189,58,73,11
+P007,Product_7,Snacks,34,139,23,10
+P008,Product_8,Snacks,194,102,73,10
+P009,Product_9,Snacks,70,179,82,2
+P010,Product_10,Household,127,133,37,10
+P011,Product_11,Personal Care,74,141,63,8
+P012,Product_12,Snacks,83,160,53,10
+P013,Product_13,Household,150,237,93,9
+P014,Product_14,Beverages,70,248,81,2
+P015,Product_15,Personal Care,154,221,33,9
+P016,Product_16,Beverages,40,57,67,9
+P017,Product_17,Personal Care,92,224,34,4
+P018,Product_18,Household,186,84,91,2
+P019,Product_19,Grocery,37,255,97,9
+P020,Product_20,Personal Care,151,130,81,4

@@ -1,0 +1,5 @@
+payment_method,total_transactions,total_revenue
+Cash,2560,1953363.0
+Wallet,2513,1944945.4
+Card,2485,1927847.9
+UPI,2442,1890283.75

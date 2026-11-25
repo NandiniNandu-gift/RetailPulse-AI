@@ -1,0 +1,101 @@
+snapshot_date,store_id,product_id,stock_on_hand,reorder_point,product_name,category,unit_cost,unit_price,lead_time_days,stock_status,inventory_cost
+2025-12-31,S001,P001,52,55,Product_1,Personal Care,77,138,9,Low Stock,4004
+2025-12-31,S001,P002,139,69,Product_2,Household,41,109,6,Healthy Stock,5699
+2025-12-31,S001,P003,123,23,Product_3,Snacks,108,63,3,Healthy Stock,13284
+2025-12-31,S001,P004,132,21,Product_4,Household,68,291,6,Healthy Stock,8976
+2025-12-31,S001,P005,3,25,Product_5,Household,78,299,9,Low Stock,234
+2025-12-31,S001,P006,55,73,Product_6,Beverages,189,58,11,Low Stock,10395
+2025-12-31,S001,P007,79,23,Product_7,Snacks,34,139,10,Healthy Stock,2686
+2025-12-31,S001,P008,191,73,Product_8,Snacks,194,102,10,Healthy Stock,37054
+2025-12-31,S001,P009,44,82,Product_9,Snacks,70,179,2,Low Stock,3080
+2025-12-31,S001,P010,187,37,Product_10,Household,127,133,10,Healthy Stock,23749
+2025-12-31,S001,P011,147,63,Product_11,Personal Care,74,141,8,Healthy Stock,10878
+2025-12-31,S001,P012,52,53,Product_12,Snacks,83,160,10,Low Stock,4316
+2025-12-31,S001,P013,72,93,Product_13,Household,150,237,9,Low Stock,10800
+2025-12-31,S001,P014,15,81,Product_14,Beverages,70,248,2,Low Stock,1050
+2025-12-31,S001,P015,92,33,Product_15,Personal Care,154,221,9,Healthy Stock,14168
+2025-12-31,S001,P016,112,67,Product_16,Beverages,40,57,9,Healthy Stock,4480
+2025-12-31,S001,P017,29,34,Product_17,Personal Care,92,224,4,Low Stock,2668
+2025-12-31,S001,P018,19,91,Product_18,Household,186,84,2,Low Stock,3534
+2025-12-31,S001,P019,105,97,Product_19,Grocery,37,255,9,Healthy Stock,3885
+2025-12-31,S001,P020,86,81,Product_20,Personal Care,151,130,4,Healthy Stock,12986
+2025-12-31,S002,P001,179,55,Product_1,Personal Care,77,138,9,Healthy Stock,13783
+2025-12-31,S002,P002,35,69,Product_2,Household,41,109,6,Low Stock,1435
+2025-12-31,S002,P003,21,23,Product_3,Snacks,108,63,3,Low Stock,2268
+2025-12-31,S002,P004,128,21,Product_4,Household,68,291,6,Healthy Stock,8704
+2025-12-31,S002,P005,20,25,Product_5,Household,78,299,9,Low Stock,1560
+2025-12-31,S002,P006,175,73,Product_6,Beverages,189,58,11,Healthy Stock,33075
+2025-12-31,S002,P007,199,23,Product_7,Snacks,34,139,10,Healthy Stock,6766
+2025-12-31,S002,P008,4,73,Product_8,Snacks,194,102,10,Low Stock,776
+2025-12-31,S002,P009,119,82,Product_9,Snacks,70,179,2,Healthy Stock,8330
+2025-12-31,S002,P010,167,37,Product_10,Household,127,133,10,Healthy Stock,21209
+2025-12-31,S002,P011,81,63,Product_11,Personal Care,74,141,8,Healthy Stock,5994
+2025-12-31,S002,P012,78,53,Product_12,Snacks,83,160,10,Healthy Stock,6474
+2025-12-31,S002,P013,44,93,Product_13,Household,150,237,9,Low Stock,6600
+2025-12-31,S002,P014,158,81,Product_14,Beverages,70,248,2,Healthy Stock,11060
+2025-12-31,S002,P015,142,33,Product_15,Personal Care,154,221,9,Healthy Stock,21868
+2025-12-31,S002,P016,57,67,Product_16,Beverages,40,57,9,Low Stock,2280
+2025-12-31,S002,P017,180,34,Product_17,Personal Care,92,224,4,Healthy Stock,16560
+2025-12-31,S002,P018,44,91,Product_18,Household,186,84,2,Low Stock,8184
+2025-12-31,S002,P019,194,97,Product_19,Grocery,37,255,9,Healthy Stock,7178
+2025-12-31,S002,P020,169,81,Product_20,Personal Care,151,130,4,Healthy Stock,25519
+2025-12-31,S003,P001,151,55,Product_1,Personal Care,77,138,9,Healthy Stock,11627
+2025-12-31,S003,P002,37,69,Product_2,Household,41,109,6,Low Stock,1517
+2025-12-31,S003,P003,50,23,Product_3,Snacks,108,63,3,Healthy Stock,5400
+2025-12-31,S003,P004,23,21,Product_4,Household,68,291,6,Healthy Stock,1564
+2025-12-31,S003,P005,90,25,Product_5,Household,78,299,9,Healthy Stock,7020
+2025-12-31,S003,P006,160,73,Product_6,Beverages,189,58,11,Healthy Stock,30240
+2025-12-31,S003,P007,146,23,Product_7,Snacks,34,139,10,Healthy Stock,4964
+2025-12-31,S003,P008,24,73,Product_8,Snacks,194,102,10,Low Stock,4656
+2025-12-31,S003,P009,69,82,Product_9,Snacks,70,179,2,Low Stock,4830
+2025-12-31,S003,P010,48,37,Product_10,Household,127,133,10,Healthy Stock,6096
+2025-12-31,S003,P011,16,63,Product_11,Personal Care,74,141,8,Low Stock,1184
+2025-12-31,S003,P012,148,53,Product_12,Snacks,83,160,10,Healthy Stock,12284
+2025-12-31,S003,P013,42,93,Product_13,Household,150,237,9,Low Stock,6300
+2025-12-31,S003,P014,81,81,Product_14,Beverages,70,248,2,Low Stock,5670
+2025-12-31,S003,P015,149,33,Product_15,Personal Care,154,221,9,Healthy Stock,22946
+2025-12-31,S003,P016,62,67,Product_16,Beverages,40,57,9,Low Stock,2480
+2025-12-31,S003,P017,23,34,Product_17,Personal Care,92,224,4,Low Stock,2116
+2025-12-31,S003,P018,32,91,Product_18,Household,186,84,2,Low Stock,5952
+2025-12-31,S003,P019,194,97,Product_19,Grocery,37,255,9,Healthy Stock,7178
+2025-12-31,S003,P020,16,81,Product_20,Personal Care,151,130,4,Low Stock,2416
+2025-12-31,S004,P001,175,55,Product_1,Personal Care,77,138,9,Healthy Stock,13475
+2025-12-31,S004,P002,43,69,Product_2,Household,41,109,6,Low Stock,1763
+2025-12-31,S004,P003,152,23,Product_3,Snacks,108,63,3,Healthy Stock,16416
+2025-12-31,S004,P004,199,21,Product_4,Household,68,291,6,Healthy Stock,13532
+2025-12-31,S004,P005,106,25,Product_5,Household,78,299,9,Healthy Stock,8268
+2025-12-31,S004,P006,98,73,Product_6,Beverages,189,58,11,Healthy Stock,18522
+2025-12-31,S004,P007,187,23,Product_7,Snacks,34,139,10,Healthy Stock,6358
+2025-12-31,S004,P008,28,73,Product_8,Snacks,194,102,10,Low Stock,5432
+2025-12-31,S004,P009,11,82,Product_9,Snacks,70,179,2,Low Stock,770
+2025-12-31,S004,P010,99,37,Product_10,Household,127,133,10,Healthy Stock,12573
+2025-12-31,S004,P011,126,63,Product_11,Personal Care,74,141,8,Healthy Stock,9324
+2025-12-31,S004,P012,136,53,Product_12,Snacks,83,160,10,Healthy Stock,11288
+2025-12-31,S004,P013,85,93,Product_13,Household,150,237,9,Low Stock,12750
+2025-12-31,S004,P014,52,81,Product_14,Beverages,70,248,2,Low Stock,3640
+2025-12-31,S004,P015,60,33,Product_15,Personal Care,154,221,9,Healthy Stock,9240
+2025-12-31,S004,P016,158,67,Product_16,Beverages,40,57,9,Healthy Stock,6320
+2025-12-31,S004,P017,112,34,Product_17,Personal Care,92,224,4,Healthy Stock,10304
+2025-12-31,S004,P018,47,91,Product_18,Household,186,84,2,Low Stock,8742
+2025-12-31,S004,P019,107,97,Product_19,Grocery,37,255,9,Healthy Stock,3959
+2025-12-31,S004,P020,78,81,Product_20,Personal Care,151,130,4,Low Stock,11778
+2025-12-31,S005,P001,46,55,Product_1,Personal Care,77,138,9,Low Stock,3542
+2025-12-31,S005,P002,160,69,Product_2,Household,41,109,6,Healthy Stock,6560
+2025-12-31,S005,P003,66,23,Product_3,Snacks,108,63,3,Healthy Stock,7128
+2025-12-31,S005,P004,63,21,Product_4,Household,68,291,6,Healthy Stock,4284
+2025-12-31,S005,P005,121,25,Product_5,Household,78,299,9,Healthy Stock,9438
+2025-12-31,S005,P006,144,73,Product_6,Beverages,189,58,11,Healthy Stock,27216
+2025-12-31,S005,P007,43,23,Product_7,Snacks,34,139,10,Healthy Stock,1462
+2025-12-31,S005,P008,4,73,Product_8,Snacks,194,102,10,Low Stock,776
+2025-12-31,S005,P009,93,82,Product_9,Snacks,70,179,2,Healthy Stock,6510
+2025-12-31,S005,P010,189,37,Product_10,Household,127,133,10,Healthy Stock,24003
+2025-12-31,S005,P011,190,63,Product_11,Personal Care,74,141,8,Healthy Stock,14060
+2025-12-31,S005,P012,78,53,Product_12,Snacks,83,160,10,Healthy Stock,6474
+2025-12-31,S005,P013,38,93,Product_13,Household,150,237,9,Low Stock,5700
+2025-12-31,S005,P014,199,81,Product_14,Beverages,70,248,2,Healthy Stock,13930
+2025-12-31,S005,P015,169,33,Product_15,Personal Care,154,221,9,Healthy Stock,26026
+2025-12-31,S005,P016,101,67,Product_16,Beverages,40,57,9,Healthy Stock,4040
+2025-12-31,S005,P017,91,34,Product_17,Personal Care,92,224,4,Healthy Stock,8372
+2025-12-31,S005,P018,20,91,Product_18,Household,186,84,2,Low Stock,3720
+2025-12-31,S005,P019,174,97,Product_19,Grocery,37,255,9,Healthy Stock,6438
+2025-12-31,S005,P020,73,81,Product_20,Personal Care,151,130,4,Low Stock,11023

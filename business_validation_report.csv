@@ -1,0 +1,9 @@
+validation_check,issue_count
+Negative sales quantity,0
+Zero sales quantity,0
+Negative revenue,0
+Negative profit,2824
+Invalid product price,0
+Invalid product cost,0
+Negative inventory,0
+Invalid received quantity,0
