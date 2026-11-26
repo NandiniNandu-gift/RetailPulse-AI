@@ -175,27 +175,17 @@ def read_csv_file(file_path):
     except Exception:
         return pd.DataFrame()
 
-
 def find_dataset_file(file_names):
-    search_folders = [
-        PROCESSED_DIR,
-        RAW_DIR,
-        Path(__file__).resolve().parent
-    ]
+    base_dir = Path(__file__).resolve().parent
 
-    for folder in search_folders:
-        if not folder.exists():
-            continue
+    for file_name in file_names:
+        target = normalize_filename(Path(file_name).stem)
 
-        for file_name in file_names:
-            target = normalize_filename(Path(file_name).stem)
-
-            for file_path in folder.glob("*.csv"):
-                if normalize_filename(file_path.stem) == target:
-                    return file_path
+        for file_path in base_dir.rglob("*.csv"):
+            if normalize_filename(file_path.stem) == target:
+                return file_path
 
     return None
-
 
 @st.cache_data(show_spinner=False)
 def load_all_datasets():
