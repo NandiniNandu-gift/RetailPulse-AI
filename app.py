@@ -184,7 +184,6 @@ def find_dataset_file(file_names):
         for file_path in base_dir.rglob("*.csv"):
             if normalize_filename(file_path.stem) == target:
                 return file_path
-
     return None
 
 @st.cache_data(show_spinner=False)
