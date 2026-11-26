@@ -175,9 +175,14 @@ def read_csv_file(file_path):
     except Exception:
         return pd.DataFrame()
 
-
 def find_dataset_file(file_names):
-   for folder in [PROCESSED_DIR, RAW_DIR, Path(__file__).resolve().parent.parent]:
+    search_folders = [
+        PROCESSED_DIR,
+        RAW_DIR,
+        Path(__file__).resolve().parent
+    ]
+
+    for folder in search_folders:
         if not folder.exists():
             continue
 
@@ -189,7 +194,6 @@ def find_dataset_file(file_names):
                     return file_path
 
     return None
-
 
 @st.cache_data(show_spinner=False)
 def load_all_datasets():
