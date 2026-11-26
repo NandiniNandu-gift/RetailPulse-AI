@@ -177,7 +177,7 @@ def read_csv_file(file_path):
 
 
 def find_dataset_file(file_names):
-    for folder in [PROCESSED_DIR, RAW_DIR]:
+   for folder in [PROCESSED_DIR, RAW_DIR, Path(__file__).resolve().parent.parent]:
         if not folder.exists():
             continue
 
