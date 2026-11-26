@@ -175,6 +175,7 @@ def read_csv_file(file_path):
     except Exception:
         return pd.DataFrame()
 
+
 def find_dataset_file(file_names):
     search_folders = [
         PROCESSED_DIR,
@@ -194,6 +195,7 @@ def find_dataset_file(file_names):
                     return file_path
 
     return None
+
 
 @st.cache_data(show_spinner=False)
 def load_all_datasets():
